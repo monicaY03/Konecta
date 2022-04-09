@@ -39,9 +39,9 @@ A nivel Frontend, se renderiza:
 
 Es necesario tener JAVA en versión 8, Spring boot version 2.6.6 y una base de datos Mysql.
 En el `aplication.properties`, se detalla la conexion a base de datos realizada, es necesario cambiar esta configuración con la información pertinente a la Base datos a usar:
-spring.datasource.url=URL de base de datos
-spring.datasource.username=Usuario de base de datos
-spring.datasource.password=Contraseña de base de datos
+* spring.datasource.url=URL de base de datos
+* spring.datasource.username=Usuario de base de datos
+* spring.datasource.password=Contraseña de base de datos
 
 # Consultas SQL solicitadas
 
